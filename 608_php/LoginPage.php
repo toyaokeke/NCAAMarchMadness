@@ -29,7 +29,7 @@
     <div class="index">
 
 
-        <form action="AdminPage.php" method="post">
+        <form action="LoginProcess.php" method="post">
 
             <label for="username">Username</label>
             <input type = "text" name = "username"><br>
