@@ -1,0 +1,354 @@
+TeamID,TeamName,CoachName,City,State
+1101,Abilene Chr,Joe Golding,Abilene,TX
+1102,Air Force,Dave Pilipovich,Colorado Springs,CO
+1103,Akron,Keith Dambrot,Akron,OH
+1104,Alabama,Anthony Grant,Tuscaloosa,AL
+1105,Alabama A&M,Willie Hayes,Huntsville,AL
+1106,Alabama St,Lewis Jackson,Montgomery,AL
+1107,SUNY Albany,Will Brown,Albany,NY
+1108,Alcorn St,Luther Riley,Lorman,MS
+1110,American Univ,Mike Brennan,Washington,DC
+1111,Appalachian St,Jim Fox,Boone,NC
+1112,Arizona,Sean Miller,Tucson,AZ
+1113,Arizona St,Herb Sendek,Tempe,AZ
+1114,Ark Little Rock,Steve Shields,Little Rock,AR
+1115,Ark Pine Bluff,George Ivory,Pine Bluff,AR
+1116,Arkansas,Mike Anderson,Fayetteville,AR
+1117,Arkansas St,John Brady,Jonesboro,AR
+1119,Army,Zach Spiker,West Point,NY
+1120,Auburn,Bruce Pearl,Auburn,AL
+1122,Austin Peay,Dave Loos,Clarksville,TN
+1123,Ball St,James Whitford,Muncie,IN
+1124,Baylor,Scott Drew,Waco,TX
+1125,Belmont,Rick Byrd,Nashville,TN
+1126,Bethune-Cookman,Gravelle Craig,Daytona Beach,FL
+1127,Binghamton,Tommy Dempsey,Vestal,NY
+1129,Boise St,Leon Rice,Boise,ID
+1130,Boston College,Jim Christian,Chestnut Hill,MA
+1131,Boston Univ,Joe Jones,Boston,MA
+1132,Bowling Green,Chris Jans,Bowling Green,OH
+1133,Bradley,Geno Ford,Peoria,IL
+1135,Brown,Mike Martin Brn,Providence,RI
+1136,Bryant,Tim O'Shea,Smithfield,RI
+1137,Bucknell,David Paulsen,Lewisburg,PA
+1138,Buffalo,Bobby Hurley,Buffalo,NY
+1139,Butler,Chris Holtmann,Indianapolis,IN
+1140,BYU,Dave Rose,Provo,UT
+1141,C Michigan,Keno Davis,Mount Pleasant,MI
+1142,Cal Poly,Joe Callero,San Luis Obispo,CA
+1143,California,Cuonzo Martin,Berkeley,CA
+1144,Campbell,Kevin Mcgeehan,Buies Creek,NC
+1145,Canisius,Jim Baron,Buffalo,NY
+1146,Cent Arkansas,Russ Pennell,Conway,AR
+1148,Central Conn,Howie Dickenman,New Britain,CT
+1149,Charleston So,Barclay Radebaugh,North Charleston,SC
+1150,Charlotte,Alan Major,Charlotte,NC
+1151,Chattanooga,Will Wade,Chattanooga,TN
+1152,Chicago St,Tracy Dildy,Chicago,IL
+1153,Cincinnati,Mick Cronin,Cincinnati,OH
+1154,Citadel,Chuck Driesell,Charleston,SC
+1155,Clemson,Brad Brownell,Clemson,SC
+1156,Cleveland St,Gary Waters,Cleveland,OH
+1157,Coastal Car,Cliff Ellis,Conway,SC
+1158,Col Charleston,Earl Grant,Charleston,SC
+1159,Colgate,Matt Langel,Hamilton,NY
+1160,Colorado,Tad Boyle,Boulder,CO
+1161,Colorado St,Larry Eustachy,Fort Collins,CO
+1162,Columbia,Kyle Smith,New York City,NY
+1163,Connecticut,Kevin Ollie,Storrs,CT
+1164,Coppin St,Michael Grant,Baltimore,MD
+1165,Cornell,Bill Courtney,Ithaca,NY
+1166,Creighton,Greg Mcdermott,Omaha,NE
+1167,CS Bakersfield,Rod Barnes,Bakersfield,CA
+1168,CS Fullerton,Dedrique Taylor,Fullerton,CA
+1169,CS Northridge,Reggie Theus,Northbridge,CA
+1170,CS Sacramento,Brian Katz,Sacramento,CA
+1171,Dartmouth,Paul Cormier,Hanover,NH
+1172,Davidson,Bob Mckillop,Davidson,NC
+1173,Dayton,Archie Miller,Daytona Beach,OH
+1174,Delaware,Monte Ross,Newark,DE
+1175,Delaware St,Keith Walker,Dover,DE
+1176,Denver,Joe Scott,Denver,CO
+1177,DePaul,Oliver Purnell,Chicago,IL
+1178,Detroit,Ray Mccallum,Detroit,MI
+1179,Drake,Ray Giacoletti,Des Moines,IA
+1180,Drexel,Bruiser Flint,Philadelphia,PA
+1181,Duke,Mike Krzyzewski,Durham,NC
+1182,Duquesne,Jim Ferry,Pittsburgh,PA
+1183,E Illinois,Jay Spoonhour,Charleston,IL
+1184,E Kentucky,Jeff Neubauer,Richmond,KY
+1185,E Michigan,Rob Murphy,Ypsilanti,MI
+1186,E Washington,Jim Hayford,Cheney,WA
+1187,East Carolina,Jeff Lebo,Greenville,NC
+1188,SIUE,Lennox Forrester,Edwardsville,NY
+1189,Elon,Matt Matheny,Elon,NC
+1190,ETSU,Murry Bartow,Johnson City,TN
+1191,Evansville,Marty Simmons,Evansville,IN
+1192,F Dickinson,Greg Herenda,Hackensack,NJ
+1193,Fairfield,Sydney Johnson,Fairfield,CT
+1194,FL Atlantic,Michael Curry,Boca Raton,FL
+1195,FL Gulf Coast,Joe Dooley,Fort Myers,FL
+1196,Florida,Billy Donovan,Gainesville,FL
+1197,Florida A&M,Byron Samuels,Tallahassee,FL
+1198,Florida Intl,Anthony Evans,University Park,FL
+1199,Florida St,Leonard Hamilton,Tallahassee,FL
+1200,Fordham,Tom Pecora,Bronx,NY
+1201,Fresno St,Rodney Terry,Fresno,CA
+1202,Furman,Niko Medved,Greenville,SC
+1203,G Washington,Mike Lonergan,Washington,DC
+1204,Ga Southern,Mark Byington,Statesboro,GA
+1205,Gardner Webb,Tim Craft,Boiling Sprongs,NC
+1206,George Mason,Paul Hewitt,Fairfax,VA
+1207,Georgetown,John Thompson Iii,Washington,DC
+1208,Georgia,Mark Fox,Athens,GA
+1209,Georgia St,Ron Hunter,Atlanta,GA
+1210,Georgia Tech,Brian Gregory,Atlanta,GA
+1211,Gonzaga,Mark Few,Spokane,WA
+1212,Grambling,Shawn Walker,Grambling,LA
+1213,Grand Canyon,Dan Majerle,Phoenix,AZ
+1214,Hampton,Edward Joyner,Hampton,VA
+1216,Hartford,John Gallagher,West Hartford,CT
+1217,Harvard,Tommy Amaker,Cambridge,MA
+1218,Hawaii,Benjy Taylor,Honolulu,HI
+1219,High Point,Scott Cherry,High Point,NC
+1220,Hofstra,Joe Mihalich,Hempstead,NY
+1221,Holy Cross,Milan Brown,Worcester,MA
+1222,Houston,Kelvin Sampson,Houston,TX
+1223,Houston Bap,Ron Cottrell,Houston,TX
+1224,Howard,Kevin Nickelberry,Washington,DC
+1225,Idaho,Don Verlin,Moscow,ID
+1226,Idaho St,Bill Evans,Pocatello,ID
+1227,IL Chicago,Howard Moore,Chicago,IL
+1228,Illinois,John Groce,Champaign,IL
+1229,Illinois St,Dan Muller,Normal,IL
+1230,Incarnate Word,Ken Burmeister,San Antonio,TX
+1231,Indiana,Tom Crean,Bloomington,IN
+1232,Indiana St,Greg Lansing,Terre Haute,IN
+1233,Iona,Tim Cluess,New Rochelle,NY
+1234,Iowa,Fran Mccaffery,Iowa City,IA
+1235,Iowa St,Fred Hoiberg,Ames,IA
+1236,PFW,Jon Coffman,Fort Wayne,IN
+1237,IUPUI,Jason Gardner,Indianapolis,IN
+1238,Jackson St,Wayne Brent,Jackson,MS
+1239,Jacksonville,Tony Jasick,Jacksonville,FL
+1240,Jacksonville St,James Green,Jacksonville,AL
+1241,James Madison,Matt Brady,Harrisonburg,VA
+1242,Kansas,Bill Self,Lawrence,KS
+1243,Kansas St,Bruce Weber,Manhattan,KS
+1244,Kennesaw,Jimmy Lallathin,Kennesaw,GA
+1245,Kent,Rob Senderoff,Kent,OH
+1246,Kentucky,John Calipari,Lexington,KY
+1247,La Salle,John Giannini,Philadelphia,PA
+1248,Lafayette,Fran O'Hanlon,Easton,PA
+1249,Lamar,Tic Price,Beaumont,TX
+1250,Lehigh,Brett Reed,Bethlehem,PA
+1251,Liberty,Dale Layer,Lynchburg,VA
+1252,Lipscomb,Casey Alexander,Nashville,TN
+1253,Long Beach St,Dan Monson,Long Beach,CA
+1254,LIU Brooklyn,Jack Perri,Brooklyn,NY
+1255,Longwood,Jayson Gee,Farmville,VA
+1256,Louisiana Tech,Michael White,Ruston,LA
+1257,Louisville,Rick Pitino,Louisville,KY
+1258,Loy Marymount,Mike Dunlap,Los Angeles,CA
+1259,Loyola MD,G G Smith,Baltimore,MD
+1260,Loyola-Chicago,Porter Moser,Chicago,IL
+1261,LSU,Johnny Jones,Baton Rouge,LA
+1262,MA Lowell,Pat Duquette,Lowell,MA
+1263,Maine,Bob Walsh,Orono,ME
+1264,Manhattan,Steve Masiello,Bronx,NY
+1265,Marist,Mike Maker,Poughkeepsie,NY
+1266,Marquette,Steve Wojciechowski,Milwaukee,WI
+1267,Marshall,Dan D'Antoni,Huntington,WV
+1268,Maryland,Mark Turgeon,College Park,MD
+1269,Massachusetts,Derek Kellogg,Amherst,MA
+1270,McNeese St,Dave Simmons,Lake Charles,LA
+1271,MD E Shore,Bobby Collins,Princess Anne,MD
+1272,Memphis,Josh Pastner,Memphis,TN
+1273,Mercer,Bob Hoffman,Macon,GA
+1274,Miami FL,Jim Larranaga,Coral Gables,FL
+1275,Miami OH,John Cooper,Oxford,OH
+1276,Michigan,John Beilein,Ann Arbor,MI
+1277,Michigan St,Tom Izzo,East Lansing,MI
+1278,Minnesota,Richard Pitino,Minneapolis,MN
+1279,Mississippi,Andy Kennedy,Oxford,MS
+1280,Mississippi St,Rick Ray,Starkville,MS
+1281,Missouri,Kim Anderson,Columbia,MO
+1282,Missouri KC,Kareem Richardson,Kansas City,MO
+1283,Missouri St,Paul Lusk,Springfield,MO
+1284,Monmouth NJ,King Rice,West Long Branch,NJ
+1285,Montana,Travis Decuire,Missoula,MT
+1286,Montana St,Brian Fish,Bozeman,MT
+1287,Morehead St,Sean Woods,Morehead,KY
+1288,Morgan St,Todd Bozeman,Baltimore,MD
+1290,MS Valley St,Andre Payne,Itta Bena,MI
+1291,Mt St Mary's,Jamion Christian,Emmitsburg,MD
+1292,MTSU,Kermit Davis,Murfreesboro,TN
+1293,Murray St,Steve Prohm,Murray,KY
+1294,N Colorado,B J Hill,Greeley,CO
+1295,N Dakota St,David Richman,Fargo,ND
+1296,N Illinois,Mark Montgomery,DeKalb,IL
+1297,N Kentucky,Dave Bezold,Highland Heights,KY
+1298,Navy,Ed Dechellis,Annapolis,MD
+1299,NC A&T,Cy Alexander,Greensboro,NC
+1300,NC Central,Levelle Moton,Durham,NC
+1301,NC State,Mark Gottfried,Raleigh,NC
+1303,NE Omaha,Derrin Hansen,Omaha,NE
+1304,Nebraska,Tim Miles,Lincoln,NE
+1305,Nevada,David Carter,Reno,NV
+1306,New Hampshire,Bill Herrion,Durham,NH
+1307,New Mexico,Craig Neal,Albuquerque,NM
+1308,New Mexico St,Marvin Menzies,Las Cruces,NM
+1309,New Orleans,Mark Slessinger,New Orleans,NO
+1310,Niagara,Chris Casey,Lewiston,NY
+1311,Nicholls St,J P Piper,Thibodaux,LA
+1312,NJIT,Jim Engles,Newark,NJ
+1313,Norfolk St,Robert Jones,Norfolk,VA
+1314,North Carolina,Roy Williams,Chapel Hill,NC
+1315,North Dakota,Brian Jones,Grand Forks,ND
+1316,North Florida,Matthew Driscoll,Jacksonville,FL
+1317,North Texas,Tony Benford,Denton,TX
+1318,Northeastern,Bill Coen,Boston,MA
+1319,Northern Arizona,Jack Murphy,Flagstaff,AZ
+1320,Northern Iowa,Ben Jacobson,Cedar Falls,IA
+1321,Northwestern,Chris Collins,Evanston,IL
+1322,Northwestern LA,Mike Mcconathy,Natchitoches,LA
+1323,Notre Dame,Mike Brey,Notre Dame,IN
+1324,Oakland,Greg Kampe,Auburn Hills,MI
+1325,Ohio,Saul Phillips,Athens,OH
+1326,Ohio St,Thad Matta,Columbus,OH
+1328,Oklahoma,Lon Kruger,Norman,OK
+1329,Oklahoma St,Travis Ford,Stillwater,OK
+1330,Old Dominion,Jeff A Jones,Norfolk,VA
+1331,Oral Roberts,Scott Sutton,Tulsa,OK
+1332,Oregon,Dana Altman,Eugene,OR
+1333,Oregon St,Wayne Tinkle,Corvallis,OR
+1334,Pacific,Ron Verlin,Stockton,CA
+1335,Penn,Jerome Allen,Philadelphia,PA
+1336,Penn St,Patrick Chambers,University Park,PA
+1337,Pepperdine,Marty Wilson,Malibu,CA
+1338,Pittsburgh,Jamie Dixon,Pittsburgh,PA
+1339,Portland,Eric Reveno,Portland,OR
+1340,Portland St,Tyler Geving,Portland,OR
+1341,Prairie View,Byron Rimm,Prairie View,TX
+1342,Presbyterian,Gregg Nibert,Clinton,SC
+1343,Princeton,Mitch Henderson,Princeton,NJ
+1344,Providence,Ed Cooley,Providence,RI
+1345,Purdue,Matt Painter,West Lafayette,IN
+1346,Quinnipiac,Tom Moore,Hamden,CT
+1347,Radford,Mike Jones,Radford,VA
+1348,Rhode Island,Dan Hurley,South Kingstown,RI
+1349,Rice,Mike Rhoades,Houston,TX
+1350,Richmond,Chris Mooney,Richmond,VA
+1351,Rider,Kevin Baggett,Lawrence Township,NJ
+1352,Robert Morris,Andrew Toole,Moon,PA
+1353,Rutgers,Eddie Jordan,New Brunswick,NJ
+1354,S Carolina St,Murray Garvin,Orangeburg,SC
+1355,S Dakota St,Scott Nagy,Brookings,SD
+1356,S Illinois,Barry Hinson,Carbondale,IL
+1357,Sacred Heart,Anthony Latina,Fairfield,CT
+1358,Sam Houston St,Jason Hooten,Huntsville,TX
+1359,Samford,Scott Padgett,Birmingham,AL
+1360,San Diego,Bill Grier,San Diego,CA
+1361,San Diego St,Steve Fisher,San Diego,CA
+1362,San Francisco,Rex Walters,San Francisco,CA
+1363,San Jose St,Dave Wojcik,San Jose,CA
+1364,UC Santa Barbara,Bob Williams,Santa Barbara,CA
+1365,Santa Clara,Kerry Keating,Santa Clara,CA
+1366,Savannah St,Horace Broadnax,Savannah,GA
+1367,SC Upstate,Eddie Payne,Spartanburg,SC
+1368,SE Louisiana,Jay Ladner,Hammond,LA
+1369,SE Missouri St,Dickey Nutt,Cape Girardeau,MO
+1370,Seattle,Cameron Dollar,Seattle,WA
+1371,Seton Hall,Kevin Willard,South Orange,NJ
+1372,SF Austin,Brad Underwood,Nacogdoches,TX
+1373,Siena,Jimmy Patsos,Loudonville,NY
+1374,SMU,Larry Brown,Dallas,TX
+1375,South Alabama,Matthew Graves,Mobile,AL
+1376,South Carolina,Frank Martin,Columbia,SC
+1377,South Dakota,Craig Smith,Vermillion,SD
+1378,South Florida,Orlando Antigua,Tampa,FL
+1379,Southern Miss,Doc Sadler,Hattiesburg,MS
+1380,Southern Univ,Roman Banks,Baton Rouge,LA
+1381,Southern Utah,Nick Robinson,Cedar City,UT
+1382,St Bonaventure,Mark Schmidt,St Bonaventure,NY
+1383,St Francis NY,Glenn Braica,Brooklyn,NY
+1384,St Francis PA,Rob Krimmel,Loretto,PA
+1385,St John's,Steve Lavin,Jamaica,NY
+1386,St Joseph's PA,Phil Martelli,Philadelphia,PA
+1387,St Louis,Jim Crews,St. Louis,MO
+1388,St Mary's CA,Randy Bennett,Moraga,CA
+1389,St Peter's,John Dunne,Jersey City,NJ
+1390,Stanford,Johnny Dawkins,Stanford,CA
+1391,Stetson,Corey Williams,DeLand,FL
+1392,Stony Brook,Steve Pikiell,Stony Brook,NY
+1393,Syracuse,Jim Boeheim,Syracuse,NY
+1394,TAM C. Christi,Willis Wilson,Corpus Christi,TX
+1395,TCU,Trent Johnson,Fort Worth,TX
+1396,Temple,Fran Dunphy,Philadelphia,PA
+1397,Tennessee,Donnie Tyndall,Knoxville,TN
+1398,Tennessee St,Dana Ford,Nashville,TN
+1399,Tennessee Tech,Steve Payne,Cookeville,TN
+1400,Texas,Rick Barnes,Austin,TX
+1401,Texas A&M,Billy Kennedy,College Station,TX
+1402,Texas St,Danny Kaspar,San Marcos,TX
+1403,Texas Tech,Tubby Smith,Lubbock,TX
+1404,TN Martin,Heath Schroyer,Martin,TN
+1405,Toledo,Tod Kowalczyk,Toldeo,OH
+1406,Towson,Pat Skerry,Towson,MD
+1407,Troy,Phil Cunningham,Troy,AL
+1408,Tulane,Ed Conroy,New Orleans,LA
+1409,Tulsa,Frank Haith,Tulsa,OK
+1410,UTRGV,Dan Hipsher,Edinburg,TX
+1411,TX Southern,Mike Davis,Houston,TX
+1412,UAB,Jerod Haase,Birmingham,AL
+1413,UC Davis,Jim Les,David,CA
+1414,UC Irvine,Russ Turner,Irvine,CA
+1415,UC Riverside,Dennis Cutts,Riverside,CA
+1416,UCF,Donnie Jones,Orlando,FL
+1417,UCLA,Steve Alford,Los Angeles,CA
+1418,Louisiana,Bob Marlin,Lafayette,LA
+1419,ULM,Keith Richard,Monroe,LA
+1420,UMBC,Aki Thomas,Baltimore,MD
+1421,UNC Asheville,Nicholas Mcdevitt,Asheville,NC
+1422,UNC Greensboro,Wes Miller,Greensboro,NC
+1423,UNC Wilmington,Kevin Keatts,Wilmington,NC
+1424,UNLV,Dave Rice,Las Vegas,NV
+1425,USC,Andy Enfield,Los Angeles,CA
+1426,UT Arlington,Scott Cross,Arlington ,TX
+1427,UT San Antonio,Brooks Thompson,San Antonio,TX
+1428,Utah,Larry Krystkowiak,Salt Lake City,UT
+1429,Utah St,Stew Morrill,Logan,UT
+1430,Utah Valley,Dick Hunsaker,Orem,UT
+1431,UTEP,Tim Floyd,El Paso,TX
+1433,VCU,Shaka Smart,Richmond,VA
+1434,Valparaiso,Bryce Drew,Valparaiso,IN
+1435,Vanderbilt,Kevin Stallings,Nashville,TN
+1436,Vermont,John Becker,Burlington,VT
+1437,Villanova,Jay Wright,Villanova,PA
+1438,Virginia,Tony Bennett,Charlotsville,VA
+1439,Virginia Tech,Buzz Williams,Blacksburg,VA
+1440,VMI,Duggar Baucom,Lexingon,VA
+1441,W Carolina,Larry Hunter,Cullowhee,NC
+1442,W Illinois,Bill Wright,Macomb,IL
+1443,WKU,Ray Harper,Bowling Green,KY
+1444,W Michigan,Steve Hawkins,Kalamazoo,MI
+1447,Wagner,Bashir Mason,Staten Island,NY
+1448,Wake Forest,Danny Manning,Winston-Salem,NC
+1449,Washington,Lorenzo Romar,Seattle,WA
+1450,Washington St,Ernie Kent,Pullman,WA
+1451,Weber St,Randy Rahe,Ogden,UT
+1452,West Virginia,Bob Huggins,Morgantown,WV
+1453,WI Green Bay,Brian Wardle,Green Bay,WI
+1454,WI Milwaukee,Rob Jeter,Milwaukee,WI
+1455,Wichita St,Gregg Marshall,Wichita,KS
+1456,William & Mary,Tony Shaver,Williamsburg,VA
+1457,Winthrop,Pat Kelsey,Rock Hill,SC
+1458,Wisconsin,Bo Ryan,Madison,WI
+1459,Wofford,Mike Young,Spartanburg,SC
+1460,Wright St,Billy Donlon,Dayton,OH
+1461,Wyoming,Larry Shyatt,Laramie,WY
+1462,Xavier,Chris Mack,Cincinnati,OH
+1463,Yale,James Jones,New Haven,CT
+1464,Youngstown St,Jerry Slocum,Youngstown,OH
+1465,Cal Baptist,Rick Croy,Riverside,CA
+1466,North Alabama,Tony Pujol,Florence,AL
