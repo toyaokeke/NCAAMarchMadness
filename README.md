@@ -1,5 +1,7 @@
 # NCAAMarchMadness
 
+## By Toya Okeke, Stephanie Walsh and Chelsea Johnson
+
 
 A web application containing 2015-2019 March Madness tournaments. Front end built with PHP, back end SQLite
 
