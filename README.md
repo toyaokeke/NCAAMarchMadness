@@ -14,3 +14,5 @@ Note that XAMPP (MAMP for Mac) or equivalent web server solution is needed to ru
 2. Create methods for bulk insertions and deletions
 
 3. Build ML pipes using Spark RDDs to predict future tournament results
+
+4. Remove db file from git tracking (currently there for learning purposes)
